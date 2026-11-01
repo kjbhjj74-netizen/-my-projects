@@ -6,3 +6,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 
 - [2026-11-01] 콘텐츠 제작 자동화 트리거 설정에 필요한 기술적 요구사항 목록(API 통합, 스크립트 로직 정의 등)을 초안 작성하고, Writer와 Designer의 산출물을 통합하여 이 요구사항 목록을 검토하라. → 산출물 sessions/2026-11-01T10-31/developer.md
 - [2026-11-01] GitHub Sync 실패 오류의 정확한 원인(src refspec 문제)을 분석하고, 현재 로컬 저장소 상태를 확인하여 수동 해결이 필요한지 판단한 후, 그 결과를 secretary에게 보고하도록 지시하세요. → 산출물 sessions/2026-11-01T10-56/developer.md
+- [2026-11-01] GitHub Sync 실패 오류(`src refspec main does not match any`)의 정확한 원인을 분석하고, 로컬 저장소 상태를 확인하여 GitHub Sync 오류를 해결하기 위한 구체적인 수동 해결 명령어를 작성하라. → 산출물 sessions/2026-11-01T11-01/developer.md
