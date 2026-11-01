@@ -1,0 +1,89 @@
+{
+  "tasks": [
+    {
+      "id": "20261101113155-bf7y",
+      "title": "**핵심 콘셉트 확정:** 이번 콘텐츠의 주제, 타깃 청중(20-50대 직장인), 핵심 메시지(Takeaway) 정의.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-11-01T11:31:55.368Z",
+      "status": "done",
+      "sessionDir": "2026-11-01T11-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-11-01T11-31/_report.md\n- 코다리: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(\n- Writer: 개발 계획 초안을 검토하고, 정의된 자동화 로직에 따라 기획-대본-비주얼 통합을 위한 최종 필수 산출물 Checklist를\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(Sprint 계획 포함), 필요한 API 연동 스크립트 모듈 목록, 예상 구현 난이도 및 리소스 할",
+      "completedAt": "2026-11-01T11:32:27.809Z"
+    },
+    {
+      "id": "20261101113155-25sc",
+      "title": "**후크(Hook) 전략 정의:** 영상 도입부에서 시청 지속률을 극대화할 **최소 5가지 후크 문구** 초안 마련 및 최적의 후크 1개 선정.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-11-01T11:31:55.393Z",
+      "status": "done",
+      "sessionDir": "2026-11-01T11-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-11-01T11-31/_report.md\n- 코다리: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(\n- Writer: 개발 계획 초안을 검토하고, 정의된 자동화 로직에 따라 기획-대본-비주얼 통합을 위한 최종 필수 산출물 Checklist를\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(Sprint 계획 포함), 필요한 API 연동 스크립트 모듈 목록, 예상 구현 난이도 및 리소스 할",
+      "completedAt": "2026-11-01T11:32:27.838Z"
+    },
+    {
+      "id": "20261101113155-r3ko",
+      "title": "**영상 제목 및 썸네일 컨셉 초안:** 후크에 가장 적합한 최종 영상 제목 후보 3가지 및 클릭률이 높은 썸네일 컨셉 3가지 제안.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-11-01T11:31:55.418Z",
+      "status": "done",
+      "sessionDir": "2026-11-01T11-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-11-01T11-31/_report.md\n- 코다리: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(\n- Writer: 개발 계획 초안을 검토하고, 정의된 자동화 로직에 따라 기획-대본-비주얼 통합을 위한 최종 필수 산출물 Checklist를\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(Sprint 계획 포함), 필요한 API 연동 스크립트 모듈 목록, 예상 구현 난이도 및 리소스 할",
+      "completedAt": "2026-11-01T11:32:27.862Z"
+    },
+    {
+      "id": "20261101113155-4jfn",
+      "title": "**필수 정보 정의:** 영상에 반드시 포함되어야 할 데이터, 통계, 참고 자료 목록 확정.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-11-01T11:31:55.439Z",
+      "status": "done",
+      "sessionDir": "2026-11-01T11-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-11-01T11-31/_report.md\n- 코다리: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(\n- Writer: 개발 계획 초안을 검토하고, 정의된 자동화 로직에 따라 기획-대본-비주얼 통합을 위한 최종 필수 산출물 Checklist를\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(Sprint 계획 포함), 필요한 API 연동 스크립트 모듈 목록, 예상 구현 난이도 및 리소스 할",
+      "completedAt": "2026-11-01T11:32:27.885Z"
+    },
+    {
+      "id": "20261101113155-lpo3",
+      "title": "**도입부 스크립트 초안:** 선정된 후크를 활용한 영상 도입부 멘트(최대 30초) 초안 작성 및 최종 확정.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-11-01T11:31:55.462Z",
+      "status": "done",
+      "sessionDir": "2026-11-01T11-31",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-11-01T11-31/_report.md\n- 코다리: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(\n- Writer: 개발 계획 초안을 검토하고, 정의된 자동화 로직에 따라 기획-대본-비주얼 통합을 위한 최종 필수 산출물 Checklist를\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: Writer가 정의한 콘텐츠 제작 자동화 로직(Flowchart 및 기술 스택 분석)을 기반으로, 실제 구현을 위한 구체적인 단계별 개발 계획(Sprint 계획 포함), 필요한 API 연동 스크립트 모듈 목록, 예상 구현 난이도 및 리소스 할",
+      "completedAt": "2026-11-01T11:32:27.912Z"
+    }
+  ]
+}
